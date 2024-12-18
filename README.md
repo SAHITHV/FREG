@@ -86,6 +86,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 Contact :
 
-For any inquiries or questions, please contact VUTUKURI SAHITH
-  (mail to:Vutukurishivasahith@gmail.com).
+For any inquiries or questions, please contact SAHITH VUTUKURI
+Mail to:Vutukurishivasahith@gmail.com
 
